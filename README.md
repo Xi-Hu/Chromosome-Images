@@ -6,3 +6,6 @@ Including 181 chromosome 9, 181 chromosome 20, 152 chromosome X, 30 chromosome Y
 Each chromosome is labeled in the file name. 
 
 e.g. In "161923.054.K.chr1.1invert_pad.gif", "161923.054" is the number of the sample, K represents karyotype image, "chr1.1" represents the image is one of the paired chromosome 1 (the other chromosome 1 is numbered as chr1.2).
+
+
+The work has been published in Journal of Computational Biology titled as “Classification of Metaphase Chromosomes Using Deep Convolutional Neural Network”. https://www.liebertpub.com/doi/10.1089/cmb.2018.0212
